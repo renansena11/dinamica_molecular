@@ -5,7 +5,7 @@ developed by
 
 Student: [Renan Silveira Sena]
 
-Advisor: [Sócrates Oliveira Dantas
+Advisor: [Sócrates Oliveira Dantas]
 
 At UFJF, Physics scholarship "Computational Simulation of Ionic Liquids"
 
